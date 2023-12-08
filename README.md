@@ -1,7 +1,7 @@
 # PC
 - Processor : Intel I3 10100F
 - Processor Cooler : Corsair iCUE H150i ELITE CAPELLIX
-- Motherboard : MSI B560M PRO-VDH
+- Motherboard : MSI B460M PRO-VDH
 - Memory : Corsair Vengeance RGB Pro 2x8 GB
 - Storage : Samsung 970 Evo 1 TB , Samsung 870 QVO 2 TB
 - Video Card : MSI GeForce RTX 3060 Ti GAMING X
