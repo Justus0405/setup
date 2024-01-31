@@ -7,7 +7,7 @@
 - Video Card : MSI GeForce RTX 3060 Ti GAMING X
 - Case : Cooler Master MasterBox TD500 Mesh
 - Power Supply : be quiet! System Power 9 500W
-- Operating System : Windows 10 Pro
+- Operating System : Windows 10 Pro / Arch Linux
 
 # Peripherals
 - Monitor : AOC Gaming CQ27G3SU/BK
