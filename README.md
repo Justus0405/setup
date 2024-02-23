@@ -11,7 +11,7 @@
 
 # Peripherals
 - Monitor : AOC Gaming CQ27G3SU/BK
-- Mouse : Roccat Kone Pro
+- Mouse : Logitech G PRO X SUPERLIGHT
 - Mousepad : KaterGames Mousetrap #6 - 90x40cm
 - Keyboard : Roccat Vulcan Pro TKL
 - Headphones : Roccat Syn Pro Air
