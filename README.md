@@ -52,4 +52,5 @@
 - Memory: 8GB (2 x 4 GB) SODIMM DDR4-2400
 - Storage : hynix BC501 512GB
 - Video Card : AMD Radeon Vega 8 Graphics
+- Accessories : SABRENT USB Bluetooth 4.0 Micro (CSR8510A10)
 - Operating System : Arch Linux
