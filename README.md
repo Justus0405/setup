@@ -8,7 +8,7 @@
 - Video Card : MSI GeForce RTX 3060 Ti GAMING X
 - Case : Cooler Master MasterBox TD500 Mesh
 - Power Supply : be quiet! System Power 9 500W
-- Operating System : Windows 10 Pro / Arch Linux
+- Operating System : Windows 10 IoT Enterprise LTSC / Arch Linux
 
 # Peripherals
 
@@ -37,7 +37,7 @@
 - Storage : Crucial P310 2TB, Seagate IronWolf Pro 4TB
 - Case : be quiet! Pure Base 600
 - Power Supply : be quiet! System Power 10 450W
-- Operating System : Debian 12
+- Operating System : Arch Linux
 - Optical Drive: ASUS BW-16D1HT (LibreDrive Patched)
 
 # Laptop 1
