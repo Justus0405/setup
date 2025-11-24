@@ -19,10 +19,14 @@
 - Headphones : Roccat Syn Pro Air
 - Microphone : Yotto Professional Microphone Set, Model : YCM-700
 
-# ETC
+# VR
 
 - VR Headset : Oculus Quest 2
 - VR Link Cable : Syntech USB-A to USB-C 20ft/6m
+
+# Hetworking
+- Switch : HPE OfficeConnect 1820 Series Switch j9980a
+- AP : TP-Link AX3000
 
 # Homelab
 
