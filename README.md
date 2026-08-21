@@ -19,7 +19,7 @@
 - Mouse : Logitech G PRO X SUPERLIGHT
 - Mousepad : KaterGames Mousetrap #6 - 90x40cm
 - Keyboard : Roccat Vulcan Pro TKL
-- Headphones : Roccat Syn Pro Air
+- Headphones : Turtle Beach Stealth Pro II
 - Microphone : Yotto Professional Microphone Set, Model : YCM-700
 - Camera : UGREEN FineCam 4K
 
